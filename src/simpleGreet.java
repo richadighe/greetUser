@@ -39,6 +39,7 @@ public class simpleGreet {
 		System.out.print("could i get your name: ");
 		name = scanner.nextLine();
 		System.out.println("Welcome to Bootcamp " + name + "!");
+		System.out.println("Have a nice day");
 		exitApplication();
 	}
 
